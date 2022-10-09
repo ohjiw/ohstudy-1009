@@ -11,3 +11,6 @@ for i in range(a):
   print(i*b)
   print(i*c)
   print(i*d)
+
+  
+  
