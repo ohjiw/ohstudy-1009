@@ -6,3 +6,8 @@ c=30
 d=40
 print(d-c)
 print(a+b+c+d)
+
+for i in range(a):
+  print(i*b)
+  print(i*c)
+  print(i*d)
